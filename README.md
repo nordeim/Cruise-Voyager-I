@@ -1,4 +1,4 @@
-a cruise booking platform [[1]](https://www.carnival.com/) [[2]](https://replit.com/@jeremiahwongyip/CruiseVoyager)
+**A cruise booking platfor**m [[1]](https://www.carnival.com/) [[2]](https://replit.com/@jeremiahwongyip/CruiseVoyager)
 
 Implement authentication system and user-friendly booking flow using Passport.js, bcrypt, and PostgreSQL sessions.  
 I see the authentication system is set up, but we have some type issues to fix and then we need to implement the frontend components. Let's continue by fixing the namespace issue in the auth module and then create the frontend authentication components.  
